@@ -1,4 +1,5 @@
 // Exercise 1.1 from CtCI p.90
+// Detect if a string has repeating characters
 // Timothy Devon Morris
 // Sun May 24 16:02:20 UTC 2020
 #include <algorithm>
