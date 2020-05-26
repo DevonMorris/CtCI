@@ -1,5 +1,5 @@
-// Exercise 1.3 from CtCI p.91
-// Check to see if string is palindrome
+// Exercise 1.4 from CtCI p.91
+// Check to see if string has palindrome permuation
 // Timothy Devon Morris
 // Mon May 25 15:23:40 UTC 2020
 #include <algorithm>
