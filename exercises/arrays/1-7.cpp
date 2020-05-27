@@ -11,6 +11,14 @@
  * Best spatial complexity is O(1) if done in place
  */
 
+/**
+ * @brief rotate NxN matrix
+ * @details
+ *  -# transpose matrix
+ *  -# flip matrix horizontally
+ * @param mat matrix
+ * @param size number of rows and columns
+ */
 template <typename DataType, typename SizeType>
 void rotateMatrix(DataType mat, SizeType size)
 {

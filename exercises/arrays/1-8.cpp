@@ -16,6 +16,9 @@
  * @details
  *  -# O(MN) temporal complexity
  *  -# O(1) spatial complexity
+ * @param mat matrix
+ * @param n_rows number of rows
+ * @param n_cols number of columns
  */
 template <typename DataType, typename SizeType>
 void zeroRowColumn(DataType mat, SizeType n_rows, SizeType n_cols)
