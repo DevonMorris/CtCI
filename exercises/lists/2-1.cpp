@@ -1,4 +1,4 @@
-// Exercise 2.1 from CtCI p.91
+// Exercise 2.1 from CtCI p.94
 // Remove duplicates from a list
 // Timothy Devon Morris
 // Mon Jun  1 12:49:41 UTC 2020
