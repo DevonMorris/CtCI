@@ -59,6 +59,9 @@
  * -# Note: with this we only have to loop through the list once and
  * -# we don't need to calculate the size of the list first
  * -# O(N)
+ * @param[in] input list
+ * @param[in] k distance from last element
+ * @return pointer to element. nullptr if k is greater than list size
  */
 template <typename DataType>
 DataType* kToLast(std::list<DataType>& input, size_t k)

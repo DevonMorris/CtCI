@@ -19,6 +19,7 @@
  * -# If value is already found in set, remove it from the list
  * -# O(N) temporal complexity
  * -# O(N) spatial complexity
+ * @param[in] input list
  */
 template <typename DataType>
 void removeDuplicates(std::list<DataType>& input)
